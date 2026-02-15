@@ -10,7 +10,7 @@ def main():
     print("Hello World!")
 
     name = "Chloe Lin" # TODO: Insert your name between the double quotes
-
+    print("Hi! My name is Chloe, and I am a sophomore from New York. One fun fact about me is that I love drawing with all different types of mediums and astronomy. I'm looking forward to working with all of you in this course!")
     print(f"{name}, Welcome to the CSS course!")
 
 if __name__ == "__main__":
